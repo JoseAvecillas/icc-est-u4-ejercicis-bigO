@@ -33,6 +33,7 @@ public class AlgoritmosEjemplo {
         return -1;
     }
 
+    
     // 4. Factorial recursivo
     public static int factorial(int n) {
         if (n == 0)
